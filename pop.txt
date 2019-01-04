@@ -1,0 +1,11 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 86D5-DB4F
+
+ Directory of D:\new pattern\gitstart
+
+01/04/2019  06:34 PM    <DIR>          .
+01/04/2019  06:34 PM    <DIR>          ..
+01/04/2019  06:21 PM                 2 ok.txt
+01/04/2019  06:34 PM                 0 pop.txt
+               2 File(s)              2 bytes
+               2 Dir(s)  304,985,563,136 bytes free
